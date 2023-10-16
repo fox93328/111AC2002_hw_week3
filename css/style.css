@@ -1,0 +1,129 @@
+
+h1{
+    color:#778A50;
+    height: 62px;
+    font-size: 44px;
+    font-family: 'Noto Sans';
+    margin-top: 36px;
+    margin-bottom: 8px;
+    
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 208px;
+    margin-top: 36px;
+    
+}
+
+h2{
+    background-color: #778A50;
+    color: #EDF2C5;
+    width: 498px;
+    height: 45px;
+    padding-left: 30px;
+    display: flex;
+    align-items: center;
+    font-family: 'Noto Sans';
+    font-size: 16px;
+    margin-top: 32px;
+    margin-bottom: 16px;
+    border-radius: 3px;
+    
+    
+
+}
+p{
+    background-color:#F7FBDA;
+    display: flex;
+    justify-content: center;
+    padding: 16px;
+    width: 496px;
+    height: 108px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #7D7D7D;
+    line-height: 1.6em;
+
+}
+
+.content-area{
+    display: flex;
+    width: 1120px;
+}
+
+.main-area{
+    width: 56%;
+}
+
+.sidebar {
+    width: 50%;
+}
+
+body{
+    background-color: #EDF2C5;
+    margin: 0px ;
+
+}
+header{
+    width: 1120px;
+    margin-left: 160px;
+    
+}
+
+header li{
+    display: inline;
+    margin-right: 4vw;
+}
+
+.main{
+    padding-left: 160px;
+    width: 1120px;
+
+}
+
+nav{
+    display: flex;
+    background-color: #778A50;
+    color: #EDF2C5;
+    font-family: 'Noto Sans';
+    align-items: center;
+    width: 1120px;
+    height: 44px;
+    margin-top: 3px;
+    margin-bottom: 16px;
+    border-radius: 3px;
+}
+
+
+
+.footer{
+    display: flex;
+    background-color: #778A50;
+    width: 1440px;
+    height: 60px;
+    margin-top: 117px;
+    border-radius: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #EDF2C5;
+    justify-content: center;
+    align-items: center;
+}
+
+.product{
+    display: flex;
+    width: 528px;
+    justify-content: space-between;
+    
+    
+
+}
+
